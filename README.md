@@ -87,7 +87,7 @@ This is my personal learning space, but feedback and encouragement are welcome! 
 ## 📫 Contact
 - [My Github Homepage](https://akiemiq4g.github.io)
 - [My GitHub Profile](https://github.com/akiemiq4g)
-- [freeCodeCamp Profile](https://www.freecodecamp.org/akiemiq4g)
+
 
 ---
 
