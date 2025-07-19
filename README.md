@@ -91,7 +91,7 @@ This is my personal learning space, but feedback and encouragement are welcome! 
 
 ---
 
-**Copyright © 2024**
+**Copyright © 2025**
 
 ---
 
